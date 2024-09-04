@@ -1,7 +1,7 @@
 import { EngagespotClient } from "@engagespot/node";
 
-const apiKey = 'ei5nmhi456q8d47vng5iia';
-const apiSecret = 'f2o0h8okmokd3c68edm8f81i188979affeaaef30607a293';
+const apiKey = 'ENGAGESPOT_API_KEY';
+const apiSecret = 'ENGAGESPOT_API_SECRET';
 
 //Initialize Engagespot object
 const client = EngagespotClient({apiKey, apiSecret});
