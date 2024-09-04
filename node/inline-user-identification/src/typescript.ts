@@ -13,6 +13,9 @@ const result = client.send({
         }
     },
     sendTo:{
-        recipients: ['user-id']
+        recipients: [{
+            "email": "test@test.com",
+            "identifier": "unique-user-identifier"
+        }]
     }
 });

@@ -1,4 +1,4 @@
-# Simple Workflow
+# Inline User Identification
 
 In this example, we will trigger a simple workflow created in Engagespot. But instead of sending it to an existing user that was already identified, we will identify a new user inline and trigger the workflow.
 
