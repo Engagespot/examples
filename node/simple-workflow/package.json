@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "run-js": "node src/index.js",
+    "run-ts": "tsc && node dist/typescript.js"
+  },
+  "dependencies": {
+    "@engagespot/node": "^1.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.3",
+    "typescript": "^5.5.4"
+  }
+}
