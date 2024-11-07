@@ -4,7 +4,7 @@
     "run-ts": "tsc && node dist/typescript.js"
   },
   "dependencies": {
-    "@engagespot/node": "^1.6.3"
+    "@engagespot/node": "^1.7.0"
   },
   "devDependencies": {
     "@types/node": "^22.5.3",
