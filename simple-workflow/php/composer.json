@@ -1,0 +1,16 @@
+{
+    "name": "engagespot/examples-php-simple-workflow",
+    "autoload": {
+        "psr-4": {
+            "Engagespot\\ExamplesPhpSimpleWorkflow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anand"
+        }
+    ],
+    "require": {
+        "engagespot/php-sdk": "^1.4"
+    }
+}
